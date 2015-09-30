@@ -1,0 +1,6 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 易源奧義__周易原旨
+#+DATE: 2015-09-23 09:34:52
+#+PROPERTY: KEY 易源奧義/卷一
+#+PROPERTY: JUAN 9
+
