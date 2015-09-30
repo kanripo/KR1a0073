@@ -1,6 +1,53 @@
-# -*- mode: mandoku-view -*-
+#+KEY: 易源奧義/卷四
+#+PROPERTY: JUAN 卷四
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: CATEGORY 01易類
+#-*- mode: mandoku-view; -*-
 #+TITLE: 易源奧義__周易原旨
-#+DATE: 2015-09-23 09:34:52
-#+PROPERTY: KEY 易源奧義/卷一
-#+PROPERTY: JUAN 9
-
+#+PROPERTY: ID ZB1a0072a
+#+KEY: 易源奧義/卷六
+#+PROPERTY: JUAN 卷六
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: CATEGORY 01易類
+#-*- mode: mandoku-view; -*-
+#+TITLE: 易源奧義__周易原旨
+#+PROPERTY: ID ZB1a0072a
+#+KEY: 易源奧義/卷二
+#+PROPERTY: JUAN 卷二
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: CATEGORY 01易類
+#-*- mode: mandoku-view; -*-
+#+TITLE: 易源奧義__周易原旨
+#+PROPERTY: ID ZB1a0072a
+#+KEY: 易源奧義/卷八
+#+PROPERTY: JUAN 卷八
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: CATEGORY 01易類
+#+KEY: 易源奧義/卷三
+#+PROPERTY: JUAN 卷三
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: CATEGORY 01易類
+#-*- mode: mandoku-view; -*-
+#+TITLE: 易源奧義__周易原旨
+#+PROPERTY: ID ZB1a0072a
+#+KEY: 易源奧義/卷五
+#+PROPERTY: JUAN 卷五
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: CATEGORY 01易類
+#-*- mode: mandoku-view; -*-
+#+TITLE: 易源奧義__周易原旨
+#+PROPERTY: ID ZB1a0072a
+#+KEY: 易源奧義/卷七
+#+PROPERTY: JUAN 卷七 
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: CATEGORY 01易類
+#-*- mode: mandoku-view; -*-
+#+TITLE: 易源奧義__周易原旨
+#+PROPERTY: ID ZB1a0072a
+#+KEY: 易源奧義/卷一
+#+PROPERTY: JUAN 卷一 
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: CATEGORY 01易類
+#-*- mode: mandoku-view; -*-
+#+TITLE: 易源奧義__周易原旨
+#+PROPERTY: ID ZB1a0072a

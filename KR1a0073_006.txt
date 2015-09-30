@@ -1,8 +1,9 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 易源奧義__周易原旨
-#+DATE: 2015-09-23 09:34:52
-#+PROPERTY: KEY 易源奧義/卷一
-#+PROPERTY: JUAN 6
+# -*- mode: mandoku-view; -*-
+#+TITLE: 易源奧義
+#+DATE: 2015-08-24 21:56:31.215573
+#+PROPERTY: ID KR1a0073
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 周易原旨卷六
 <pb:KR1a0073_WYG_006-1a>¶
 欽定四庫全書¶
 　周易原㫖卷六　　　　　　元　保巴　撰¶
@@ -651,4 +652,3 @@
 　¶
 　¶
 　周易原㫖卷六¶
-

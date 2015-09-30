@@ -1,8 +1,9 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 易源奧義__周易原旨
-#+DATE: 2015-09-23 09:34:52
-#+PROPERTY: KEY 易源奧義/卷一
-#+PROPERTY: JUAN 0
+# -*- mode: mandoku-view; -*-
+#+TITLE: 易源奧義
+#+DATE: 2015-08-24 21:56:31.091139
+#+PROPERTY: ID KR1a0073
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1a0073_WYG_000-1a>¶
 欽定四庫全書　　　　經部一¶
 　易源奥義　周易原㫖　　易類¶
@@ -36,6 +37,7 @@
 　　　　月恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 進太子牋
 <pb:KR1a0073_WYG_000-3a>¶
 進太子牋¶
 皇帝聖㫖裏太中大夫前黄州路總管兼管内勸農事¶
@@ -56,6 +58,7 @@
 巴誠惶誠懼叩頭叩頭謹言太中大夫前黄州路總¶
 <pb:KR1a0073_WYG_000-4a>¶
 管兼管内勸農事臣保巴上牋¶
+#+PROPERTY: JUAN 先天圖
 <pb:KR1a0073_WYG_000-5a>¶
 欽定四庫全書¶
 　易源奥義　　　　　　　元　保巴　撰¶
@@ -286,4 +289,3 @@
 　¶
 　¶
 　易源奥義¶
-
